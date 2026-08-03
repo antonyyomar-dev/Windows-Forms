@@ -1,0 +1,11 @@
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\bin\Debug\Lab01-Introducción a WF.exe.config
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\bin\Debug\Lab01-Introducción a WF.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\bin\Debug\Lab01-Introducción a WF.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01-Introducción a WF.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01_Introducción_a_WF.Form1.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01_Introducción_a_WF.Properties.Resources.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01-Introducción a WF.csproj.GenerateResource.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01-Introducción a WF.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01-Introducción a WF.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01-Introducción a WF.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab01-Introducción a WF\Lab01-Introducción a WF\obj\Debug\Lab01_Introducción_a_WF.Form2.resources
