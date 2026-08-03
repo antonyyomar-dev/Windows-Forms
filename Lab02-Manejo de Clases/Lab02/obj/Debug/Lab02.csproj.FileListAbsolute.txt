@@ -1,0 +1,10 @@
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO\Fundamentos de sistemas de Información\APP EXERCICES\Lab02\Lab02\obj\Debug\Lab02.pdb
