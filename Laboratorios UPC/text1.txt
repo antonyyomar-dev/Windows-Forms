@@ -1,1 +1,5 @@
+Este repositorio alamcena los laboratorios que se han desarrollado en el curso de
+Fundamentos de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas
+
+CodeNexus - 202620
 
