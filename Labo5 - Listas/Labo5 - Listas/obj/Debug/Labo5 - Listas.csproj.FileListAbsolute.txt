@@ -1,0 +1,10 @@
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\bin\Debug\Labo5 - Listas.exe.config
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\bin\Debug\Labo5 - Listas.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\bin\Debug\Labo5 - Listas.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5 - Listas.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5___Listas.FormElectrodomestico.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5___Listas.Properties.Resources.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5 - Listas.csproj.GenerateResource.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5 - Listas.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5 - Listas.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Labo5 - Listas\Labo5 - Listas\obj\Debug\Labo5 - Listas.pdb
