@@ -1,0 +1,10 @@
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\bin\Debug\Lab04 - Arreglos II.exe.config
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\bin\Debug\Lab04 - Arreglos II.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\bin\Debug\Lab04 - Arreglos II.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04 - Arreglos II.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04___Arreglos_II.Properties.Resources.resources
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04 - Arreglos II.csproj.GenerateResource.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04 - Arreglos II.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04 - Arreglos II.exe
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04 - Arreglos II.pdb
+C:\Users\anton\Documents\OneDrive\Documentos\CICLO 5\Fundamentos de sistemas de Información\EJERCICIOS DE PRÁCTICA\Lab04 - Arreglos II\Lab04 - Arreglos II\obj\Debug\Lab04___Arreglos_II.Form1.resources
