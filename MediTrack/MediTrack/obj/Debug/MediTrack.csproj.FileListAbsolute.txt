@@ -1,0 +1,7 @@
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\bin\Debug\MediTrack.exe.config
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\bin\Debug\MediTrack.exe
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\bin\Debug\MediTrack.pdb
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\obj\Debug\MediTrack.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\obj\Debug\MediTrack.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\obj\Debug\MediTrack.exe
+C:\Users\anton\Downloads\Nueva carpeta (6)\MediTrack\MediTrack\obj\Debug\MediTrack.pdb
